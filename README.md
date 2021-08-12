@@ -7,4 +7,10 @@ As bases de dados utilizadas por outras fontes podem ser encontradas nos seguint
 3) Wikipedia de nomes de estados: https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations 
 4) Shapefile dos EUA: https://tapiquen-sig.jimdofree.com/english-version/free-downloads/united-states/ 
 
+Já para o CANVAS de machine learning, foi utilizado o seguinte formato: https://towardsdatascience.com/a-data-science-workflow-canvas-to-kickstart-your-projects-db62556be4d0
+
 Todos os direitos aos dados reservados as bases de dados referenciadas.
+
+Curso: Especialização em Ciências de Dados
+Instituição: PUC Minas
+Estudante: Victor Aguiar de Souza Penha
